@@ -1,0 +1,11 @@
+{
+  "name": "todomvc-cypress",
+  "version": "1.0.0",
+  "description": "curso cypress udemy",
+  "main": "index.js",
+  "author": "Julia Abreu",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^15.13.0"
+  }
+}
